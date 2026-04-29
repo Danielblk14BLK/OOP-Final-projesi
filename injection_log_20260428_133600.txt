@@ -1,0 +1,6 @@
+PROCESS INJECTION TESPIT RAPORU
+Tarih: 2026-04-28 13:36:00
+
+[HIGH] Process Hollowing
+Süreç   : FnHotkeyCapsLKNumLK.exe (PID: 4556)
+Aç
